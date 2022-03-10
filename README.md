@@ -1,3 +1,17 @@
+## Getting Started
+
+Enter the directory:
+
+cd web3-link-tree
+
+Download and install the app:
+
+yarn install
+
+Run the app @ localhost:3000:
+
+yarn dev
+
 ## Customize
 
 Add your name, wallet address, social media links and more in **config.ts**
